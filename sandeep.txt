@@ -1,0 +1,1 @@
+ full form of jdbc = java databse connection
